@@ -13,6 +13,7 @@ class UsedFeature extends Model
         'feature_id',
         'user_id',
         'credits',
+        'data'
     ];
 
     // old laravel version
